@@ -370,4 +370,106 @@ Maybe you wanted to say 'git add .'?[0K
 [0K[?25h[?25l
 [0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ git add[0K[?25h[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/15ED7BFC/sources/prop/E3F68B12.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/15ED7BFC/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/15ED7BFC/sources/s-ED924290/F5662E2F.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/15ED7BFC/sources/s-ED924290/F5662E2F-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "First commit"[0K[?25h[?25l
+[0K[?25h[master 6288cde] First commit[0K[?25l
+ 12 files changed, 906 insertions(+)[0K
+ create mode 100644 .Rproj.user/15ED7BFC/console06/77E0ABCF[0K
+ create mode 100644 .Rproj.user/15ED7BFC/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/15ED7BFC/sources/prop/E3F68B12[0K
+ create mode 100644 .Rproj.user/15ED7BFC/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/15ED7BFC/sources/s-ED924290/F5662E2F[0K
+ create mode 100644 .Rproj.user/15ED7BFC/sources/s-ED924290/F5662E2F-contents[0K
+ create mode 100644 .Rproj.user/15ED7BFC/sources/s-ED924290/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 RnutsAndRbolts.R[0K
+ create mode 100644 RnutsAndRbolts.Rproj[0K
+ create mode 100644 data.R[0K
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote add origin[0K[?25h[25G[?25l$ git remote add origin https://github.com/LuizTanedo/Luizantonioatanedo1510373.git[0K[?25h[?25l
+[0K[?25hfatal: remote origin already exists.[0K[?25l
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote -v[0K[?25h[?25l
+[0K[?25horigin  https://github.com/LuizTanedo/Luizantonioatanedo1510373.git (fetch)[0K[?25l
+origin  https://github.com/LuizTanedo/Luizantonioatanedo1510373.git (push)[0K
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': L[0K[?25hu[0Ki[0Kz[0KT[0Ka[0Kn[0Ke[0Kd[0Ko[0K[49G[46G[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+[0K[?25hPassword for 'https://LuizTanedo@github.com':[0K[47G[?25l
+[0K[?25hEnumerating objects: 21, done.[0K[?25l
+Counting objects: 100% (21/21), done.[0K
+Delta compression using up to 2 threads.[0K
+Compressing objects: 100% (18/18), done.[0K
+Writing objects: 100% (20/20), 7.29 KiB | 1.04 MiB/s, done.[0K
+Total 20 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hTo https://github.com/LuizTanedo/Luizantonioatanedo1510373.git[0K[?25l
+   d47de43..6288cde  master -> master[0K
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[12G[?25l
+[0K[?25hAlready up to date.[0K[?25l
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[?25l
+[0K[?25hAlready up to date.[0K[?25l
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0K[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git r[0K[?25he[0Knm[0Ko[0K[?25l$ git renm[0K[?25h[?25l$ git ren[0K[?25h[?25l$ git re[0K[?25hm[0Ko[0Kt[0Ke[0K.[0Ko[0Kr[0Ki[0Kg[0Ki[0Kn[0K.[0Ku[0Kr[0Kl[0K[?25l
+[0K[?25hgit: 'remote.origin.url' is not a git command. See 'git --help'.[0K[?25l
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote.origin.url[0K[?25h[23G[22G[21G[20G[19G[18G[17G[16G[15G[14G[13G[12G[11G[10G[9G[8G[7G[6G[7G[?25l$ git cremote.origin.url[0K[8G[?25h[?25l$ git coremote.origin.url[0K[9G[?25h[?25l$ git conremote.origin.url[0K[10G[?25h[?25l$ git confremote.origin.url[0K[11G[?25h[?25l$ git confiremote.origin.url[0K[12G[?25h[?25l$ git confitremote.origin.url[0K[13G[?25h[?25l$ git confiremote.origin.url[0K[12G[?25h[?25l$ git configremote.origin.url[0K[13G[?25h[?25l$ git config remote.origin.url[0K[14G[?25h[?25l
+[0K[?25hhttps://github.com/LuizTanedo/Luizantonioatanedo1510373.git[0K[?25l
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[12G[?25l$ git pull o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hFrom https://github.com/LuizTanedo/Luizantonioatanedo1510373[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+[0K[?25hAlready up to date.[0K[?25l
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': L[0K[?25hu[0Ki[0Kz[0KT[0Ka[0Kn[0Ke[0Kd[0Ko[0K[49G[46G[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+[0K[?25hPassword for 'https://LuizTanedo@github.com':[0K[47G[?25l
+[0K[?25hremote: Invalid username or password.[0K[?25l
+fatal: Authentication failed for 'https://github.com/LuizTanedo/Luizantonioatanedo1510373.git/'[0K
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ -[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[6G[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': L[0K[?25hu[0Ki[0Kz[0KL[0K[?25lUsername for 'https://github.com': Luiz[0K[?25hT[0KA[0K[?25lUsername for 'https://github.com': LuizT[0K[?25ha[0Kn[0Ke[0Kd[0Ko[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+[0K[?25hPassword for 'https://LuizTanedo@github.com':[0K[47G[?25l
+[0K[?25hEverything up-to-date[0K[?25l
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[20G[19G[?25l$ git push origin m[0K[?25hs[0Kt[0Ks[0K[?25l$ git push origin mst[0K[?25h[?25l$ git push origin ms[0K[?25h[?25l$ git push origin m[0K[?25h[?25l$ git push origin[0K[19G[?25h[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': L[0K[?25hu[0Ki[0Kz[0Kl[0Ko[0K[?25lUsername for 'https://github.com': Luizl[0K[?25h[?25lUsername for 'https://github.com': Luiz[0K[?25h[?25lUsername for 'https://github.com': Lui[0K[?25hz[0KT[0Ka[0Kn[0Ke[0Kd[0Ko[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+[0K[?25hPassword for 'https://LuizTanedo@github.com':[0K[47G[?25l
+[0K[?25hremote: Invalid username or password.[0K[?25l
+fatal: Authentication failed for 'https://github.com/LuizTanedo/Luizantonioatanedo1510373.git/'[0K
+[0K[?25h[?25l
+[0;32mRM A-225@RM227_PC14 [0;35m [0;33m~/Documents/TestRepo/RnutsAndRbolts[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
